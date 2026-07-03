@@ -30,12 +30,6 @@ This dashboard provides a clear view of IT support operations, helping teams mon
 
 ---
 
-## Dashboard Preview / Vista previa
-
-![Dashboard Preview](images/dashboard-preview.png)
-
----
-
 ## Tools & Technologies / Herramientas y tecnologías
 
 - **Power BI** — data modeling, visualization, and dashboard design / modelado de datos, visualización y diseño del dashboard
